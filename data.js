@@ -6,6 +6,7 @@ let data = [{
 		"fav_sport": "Football",
 		"fav_movie": "Exorcist",
 		"fav_song": "Rain",
+		"fav_drink": "Milk",
 		"fav_animal": "Wolves"
 	},
 	{
@@ -14,6 +15,7 @@ let data = [{
 		"fav_sport": "Baseball",
 		"fav_movie": "Batman",
 		"fav_song": "Rain Dogs",
+		"fav_drink": "Beer",
 		"fav_animal": "Cats"
 	},
 	{
@@ -22,6 +24,7 @@ let data = [{
 		"fav_sport": "Tennis",
 		"fav_movie": "The Lives of Others",
 		"fav_song": "A Day in the Life",
+		"fav_drink": "Whiskey",
 		"fav_animal": "Dogs"
   },
 	{
@@ -30,6 +33,7 @@ let data = [{
 		"fav_sport": "Tennis",
 		"fav_movie": "Wonder Woman",
 		"fav_song": "The Boxer",
+		"fav_drink": "Rum",
 		"fav_animal": "Dogs"
 	},
 	{
@@ -38,6 +42,7 @@ let data = [{
 		"fav_sport": "Soccer",
 		"fav_movie": "Ghost Busters",
 		"fav_song": "Hells Bells",
+		"fav_drink": "Water",
 		"fav_animal": "Cats"
 	},
 	{
@@ -46,6 +51,7 @@ let data = [{
 		"fav_sport": "Tennis",
 		"fav_movie": "Mary Poppins",
 		"fav_song": "This Girl Is on Fire",
+		"fav_drink": "Seltzer",
 		"fav_animal": "Dolphins"
 	},
 	{
@@ -54,6 +60,7 @@ let data = [{
 		"fav_sport": "Football",
 		"fav_movie": "Mary Poppins",
 		"fav_song": "Help",
+		"fav_drink": "Wine",
 		"fav_animal": "Horse"
 	}
 ];
