@@ -6,7 +6,8 @@ let data = [{
 		"fav_sport": "Football",
 		"fav_movie": "Exorcist",
 		"fav_song": "Rain",
-		"fav_animal": "Wolves"
+		"fav_animal": "Wolves",
+		"fav_drink": "Rum"
 	},
 	{
 		"name": "Jane",
@@ -14,7 +15,8 @@ let data = [{
 		"fav_sport": "Baseball",
 		"fav_movie": "Batman",
 		"fav_song": "Rain Dogs",
-		"fav_animal": "Cats"
+		"fav_animal": "Cats",
+		"fav_drink": "Coolers"
 	},
 	{
 		"name": "Sandeep",
@@ -22,7 +24,8 @@ let data = [{
 		"fav_sport": "Tennis",
 		"fav_movie": "The Lives of Others",
 		"fav_song": "A Day in the Life",
-		"fav_animal": "Dogs"
+		"fav_animal": "Dogs",
+		"fav_drink": "Scotch"
   },
 	{
 		"name": "Christine",
@@ -30,7 +33,8 @@ let data = [{
 		"fav_sport": "Tennis",
 		"fav_movie": "Wonder Woman",
 		"fav_song": "The Boxer",
-		"fav_animal": "Dogs"
+		"fav_animal": "Dogs",
+		"fav_drink": "Vodka"
 	},
 	{
 		"name": "Krithi",
@@ -38,7 +42,8 @@ let data = [{
 		"fav_sport": "Soccer",
 		"fav_movie": "Ghost Busters",
 		"fav_song": "Hells Bells",
-		"fav_animal": "Cats"
+		"fav_animal": "Cats",
+		"fav_drink": "Seltzer"
 	},
 	{
 		"name": "Sulekha",
@@ -46,7 +51,8 @@ let data = [{
 		"fav_sport": "Tennis",
 		"fav_movie": "Mary Poppins",
 		"fav_song": "This Girl Is on Fire",
-		"fav_animal": "Dolphins"
+		"fav_animal": "Dolphins",
+		"fav_drink": "Water"
 	},
 	{
 		"name": "Bill",
@@ -54,6 +60,16 @@ let data = [{
 		"fav_sport": "Football",
 		"fav_movie": "Mary Poppins",
 		"fav_song": "Help",
-		"fav_animal": "Horse"
+		"fav_animal": "Horse",
+		"fav_drink": "Beer"
+	},
+	{
+		"name": "Kelly",
+		"fav_food": "Salad",
+		"fav_sport": "High Jump",
+		"fav_movie": "The Paper",
+		"fav_song": "Hello",
+		"fav_animal": "Eagles",
+		"fav_drink": "Wine"
 	}
 ];
